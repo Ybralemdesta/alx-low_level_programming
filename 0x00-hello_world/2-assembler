@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 #!/bin/bash
 gcc -S $CFILE
 
 
+=======
+#!/bin/bash#
+gcc -S $CFILE
+
+>>>>>>> task 2
